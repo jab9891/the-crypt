@@ -1,0 +1,10 @@
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Release\The Crypt.exe.config
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Release\The Crypt.exe.manifest
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Release\The Crypt.application
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Release\The Crypt.exe
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Release\The Crypt.pdb
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Release\Crypt.csproj.CoreCompileInputs.cache
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Release\The Crypt.exe.manifest
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Release\The Crypt.application
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Release\The Crypt.exe
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Release\The Crypt.pdb

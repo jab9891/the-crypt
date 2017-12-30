@@ -1,0 +1,11 @@
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Debug\Jamiesservers.csprojResolveAssemblyReference.cache
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Debug\Jamiesservers.csproj.CoreCompileInputs.cache
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Debug\The Crypt.exe.config
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Debug\The Crypt.exe
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Debug\The Crypt.pdb
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Debug\The Crypt.exe
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Debug\The Crypt.pdb
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Debug\The Crypt.exe.manifest
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\bin\Debug\The Crypt.application
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Debug\The Crypt.exe.manifest
+C:\Users\jamie.baker\source\repos\Jamiesservers\Jamiesservers\obj\Debug\The Crypt.application
